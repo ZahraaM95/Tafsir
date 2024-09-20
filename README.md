@@ -1,5 +1,5 @@
 🌟 Gemini AI Bot 🤖
-A Flutter application designed for dream interpretation using Google's Gemini AI. This app allows you to input your dreams and receive instant interpretations, helping you understand your dreams in a new and exciting way! 
+A Flutter application designed for dream interpretation using Google's Gemini AI. This app allows you to input your dreams and receive instant interpretations, helping you understand your dreams ! 
 
 
 
